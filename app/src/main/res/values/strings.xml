@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Ejercicio4Fer</string>
+    <string name="desc_image">a</string>
+    <string name="name_text">nombre</string>
+    <string name="descripcion">descripcion</string>
+    <string name="charDesc">Descripción</string>
+    <string name="goku">Goku</string>
+    <string name="vegeta">Vegeta</string>
+    <string name="frieza">Frieza</string>
+    <string name="android18">Android 18</string>
+    <string name="gamma1and2">Gamma 1 and Gamma 2</string>
+    <string name="gogeta">Gogeta</string>
+    <string name="vegito">Vegito</string>
+    <string name="piccolo">Piccolo</string>
+    <string name="omega">Omega Shenron</string>
+    <string name="cell">Perfect Cell</string>
+    <string name="gokuDesc">Saiyan from the Earth</string>
+    <string name="vegetaDesc">Prince of all saiyans</string>
+    <string name="friezaDesc">Heart full of vengeance</string>
+    <string name="androidDesc">Infinite energy</string>
+    <string name="gammasDesc">Dr Hedo\'s prefect androids</string>
+    <string name="gogetaDesc">Ultimate fusion</string>
+    <string name="vegitoDesc">Potara fusion</string>
+    <string name="piccoloDesc">Supreme namekian warrior</string>
+    <string name="omegaDesc">Evil dragon</string>
+    <string name="cellDesc">Perfect life-form</string>
+</resources>
